@@ -1,0 +1,24 @@
+{
+  "name": "html-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reporter.js",
+  "dependencies": {
+    "canonical-path": "^0.0.2",
+    "lodash": "^4.16.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marypershay/html-reporter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marypershay/html-reporter/issues"
+  },
+  "homepage": "https://github.com/marypershay/html-reporter#readme"
+}
